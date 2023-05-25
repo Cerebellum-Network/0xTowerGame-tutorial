@@ -1,0 +1,34 @@
+{
+  "name": "0xTowerGame",
+  "version": "0.1",
+  "description": "Simple Example Tower Game clone integrated hosted on Cere DDC.",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_OPTIONS=--openssl-legacy-provider npm run build && node index.js",
+    "start_dev": "npm run build && node index.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calmrat/0xTowerGame.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calmrat/0xTowerGame.git"
+  },
+  "homepage": "https://github.com/calmrat/0xTowerGame.git/tower_game#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.0",
+    "babel-loader": "^9.1.2",
+    "express": "^4.16.3",
+    "opn": "^5.3.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "@cere/games-sdk": "^0.2.0-rc.15",
+    "cooljs": "^1.0.2"
+  }
+}
