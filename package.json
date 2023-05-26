@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calmrat/0xTowerGame.git"
+    "url": "git+https://github.com/Cerebellum-Network/0xTowerGame-tutorial.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calmrat/0xTowerGame.git"
+    "url": "https://github.com/Cerebellum-Network/0xTowerGame-tutorial/issues"
   },
-  "homepage": "https://github.com/calmrat/0xTowerGame.git/tower_game#readme",
+  "homepage": "https://github.com/Cerebellum-Network/0xTowerGame-tutorial",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.0",
@@ -28,7 +28,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "@cere/games-sdk": "^0.2.0-rc.15",
+    "@cere/games-sdk": "^0.3.0",
     "cooljs": "^1.0.2"
   }
 }
