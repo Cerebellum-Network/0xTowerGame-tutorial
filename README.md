@@ -1,3 +1,7 @@
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/17680888/47480922-93a20c00-d864-11e8-8f7c-6d1d60184730.gif"/></p>
+
 # 0xTowerGame-tutorial
 Open Source remake of an old mobile classic, 0xTowerGame!
 
