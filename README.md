@@ -1,8 +1,11 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/17680888/47480922-93a20c00-d864-11e8-8f7c-6d1d60184730.gif"/></p>
-
 # 0xTowerGame-tutorial
+
+<p align="center">
+  <img src="https://github.com/Cerebellum-Network/0xTowerGame-tutorial/blob/master/assets/main-loading.gif?raw=true" width="180"></img>
+</p>
+
 Open Source remake of an old mobile classic, 0xTowerGame!
 
 The most up2date version of the [0xTowerGame Tutorial](https://www.notion.so/cere/34df8a8699344d4e9192b1572858dbb1) can be found on the [Cere Community Portal](https://portal.cere.network).
