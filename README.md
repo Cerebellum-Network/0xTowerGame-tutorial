@@ -229,3 +229,7 @@ $> npm start
 
 The server should start and a new browser window should open automatically with your game loading screen as expected. Once the SDK is initialized and game assets loaded, you’ll see the Cere Games pre-loader modal pop-up with the start button as seen in the screenshot below.
 You can play the game now as you would expect, and once you have run out of lives, your score will be saved and the leaderboard will be opened as expected!
+
+## Report Issues
+
+If you found an issue, let us know by filing an [Issue in github](https://github.com/Cerebellum-Network/0xTowerGame-tutorial/issues). 
